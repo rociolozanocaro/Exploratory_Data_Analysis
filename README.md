@@ -15,7 +15,7 @@ Este proyecto consiste en un **análisis exploratorio de datos (EDA)** aplicado 
 
 ## 👥 Contribuyentes y roles
 
-- **Nombre:** Rocio Lopez Caro — **Rol:** Análisis exploratorio de datos, visualización, limpieza de datos
+- **Nombre:** Rocio Lozano Caro — **Rol:** Análisis exploratorio de datos, visualización, limpieza de datos
 - **Nombre:** Mariana Moreno Henao — **Rol:** Apoyo en análisis, revisión de resultados y documentación
 
 ## 🎯 Objetivos del proyecto
